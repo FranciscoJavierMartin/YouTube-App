@@ -1,3 +1,6 @@
+# Descripcion
+Aplicación web para ver los videos subidos por un usuario a la plataforma YouTube usando su API y el framework Angular.
+
 # YoutubeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
